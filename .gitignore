@@ -130,3 +130,5 @@ dmypy.json
 
 #User specified
 *.txt
+*.csv
+/20*
